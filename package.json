@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "axios": "^0.24.0",
+    "discord.js": "^13.1.0",
+    "glob": "^7.1.7",
+    "moment": "^2.29.1",
+    "ms": "^3.0.0-canary.1",
+    "quick.db": "^7.1.3",
+    "twemoji-parser": "^13.1.0"
+  },
+  "name": "Shun",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shu.chan",
+  "description": "Bot bel snipe messages"
+}
